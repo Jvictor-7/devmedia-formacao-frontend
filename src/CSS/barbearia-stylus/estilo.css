@@ -30,7 +30,7 @@ h1 {
     border: 5px solid var(--cor-h1-e-h3);
     padding: 10px;
     color: var(--cor-h1-e-h3);
-    border-radius: 5px;
+    border-radius: 5    px;
     font-size: 24px;
 }
 
