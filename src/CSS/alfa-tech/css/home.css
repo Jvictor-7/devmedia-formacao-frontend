@@ -1,0 +1,17 @@
+:root {
+    /* Home */
+    --cor-home-branca-1: #fff;
+    --cor-home-branca-2: #f1f3f7;
+    --cor-home-branca-3: #f6f6f6;
+    --cor-home-cinza: #a89f9f;
+    --cor-home-preta: #233032;
+    --cor-home-azul: #2f86d6;
+    /* Tabela de preços */
+    --cor-precos-branca-1: #fff;
+    --cor-precos-branca-2: #f1f3f7;
+    --cor-precos-branca-3: #f6f6f6;
+    --cor-precos-cinza: #a8a4a4;
+    --cor-precos-preta: #233032;
+    --cor-precos-azul: #2f86d6;
+    --cor-precos-azul-2: rgba(47,134,214,1);
+}
